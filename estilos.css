@@ -19,11 +19,11 @@ footer {
 }
 
 hr {
-    border-top: 2px solid red !important;
+    border-top: 2px solid rgb(196, 196, 10) !important;
 }
 
 .div-cotizar {
-    background-color: rgb(202, 119, 19);
+    background-color: rgb(197, 185, 20);
     font-weight: 800;
     color: whitesmoke;
     margin: 20px;
@@ -38,6 +38,7 @@ hr {
 }
 
 .div-cotizar button:active {
-    background-color: black !important;
+    background-color: rgb(195, 238, 1) !important;
     border-color: white !important;
 }
+ 
